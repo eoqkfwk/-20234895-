@@ -1,6 +1,7 @@
 
 # **오픈소스 README FILE**<br>
 **20234895 신대성**<br>
+![image]https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.codestates.com%2Fblog%2Fcontent%2F%25EB%25A6%25AC%25EB%2588%2585%25EC%258A%25A4-%25EA%25B8%25B0%25EB%25B3%25B8-%25EB%25AA%2585%25EB%25A0%25B9%25EC%2596%25B4&psig=AOvVaw1_TyeZBSgzz4_Y14Hosjb8&ust=1764589958325000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPjVpP_nmZEDFQAAAAAdAAAAABAE
 ## **top**
 -시스템 실시간 모니터링 도구로 CPU, 메모리 사용량, 실행 중인 프로세스를 실시간으로 보여준다.
 | 단축키 | 기능 |
@@ -12,7 +13,7 @@
 |k->PID->시그널번호| 프로세스 종료|
 
 ## **ps**
--<u>현재 실행 중인 프로세스 목록</u>을 <u>스냅샷 형태</u>로 출력한다.<br>
+-현재 실행 중인 프로세스 목록을 스냅샷 형태로 출력한다.<br>
 -PID 확인, 프로세스의 부모/자식 관계 확인 시 사용
 |단축키|기능|
 |:------:|:------------------------------|
