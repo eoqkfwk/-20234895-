@@ -1,7 +1,8 @@
 
 # **오픈소스 README FILE**<br>
 **20234895 신대성**<br>
-![image]https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.codestates.com%2Fblog%2Fcontent%2F%25EB%25A6%25AC%25EB%2588%2585%25EC%258A%25A4-%25EA%25B8%25B0%25EB%25B3%25B8-%25EB%25AA%2585%25EB%25A0%25B9%25EC%2596%25B4&psig=AOvVaw1_TyeZBSgzz4_Y14Hosjb8&ust=1764589958325000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPjVpP_nmZEDFQAAAAAdAAAAABAE
+<img src="[https://example.com/image.png](https://i0.wp.com/blogcodestates.com/wp-content/uploads/2022/12/%EB%A6%AC%EB%88%85%EC%8A%A4-%EA%B8%B0%EB%B3%B8-%EB%AA%85%EB%A0%B9%EC%96%B4.-%EB%AA%A8%EC%9D%8C.png?resize=750%2C563&ssl=1)" width="300">
+
 ## **top**
 -시스템 실시간 모니터링 도구로 CPU, 메모리 사용량, 실행 중인 프로세스를 실시간으로 보여준다.
 | 단축키 | 기능 |
