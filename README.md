@@ -48,5 +48,7 @@
 
 예시
 kill 123 (PID 123 프로세스 종료)<br>
-kill -9 123 (강제 종료)<br>
 kill %1 (job에서 1번 종료)<br>
+<span style="color:red;">kill -9 123 (강제 종료)</span><br>
+<span style="color:red;">ㄴ(시스템 손상 가능성, kill -15(SIGTERM) 먼저 실행 권장</span><br>
+
