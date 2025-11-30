@@ -1,6 +1,10 @@
 
 # **오픈소스 README FILE**<br>
 **20234895 신대성**<br>
+
+#리눅스 top, ps, jobs, kill 명령어
+
+
 <img src="https://i0.wp.com/blogcodestates.com/wp-content/uploads/2022/12/%EB%A6%AC%EB%88%85%EC%8A%A4-%EA%B8%B0%EB%B3%B8-%EB%AA%85%EB%A0%B9%EC%96%B4.-%EB%AA%A8%EC%9D%8C.png?resize=750%2C563&ssl=1" width="300">
 
 
